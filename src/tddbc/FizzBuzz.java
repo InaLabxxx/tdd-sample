@@ -2,8 +2,8 @@ package tddbc;
 
 public class FizzBuzz {
 
-	public String convert(int i) {
-		return String.valueOf(i);
+	public String convert(int num) {
+		return String.valueOf(num);
 	}
 
 }
